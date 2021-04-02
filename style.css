@@ -1,0 +1,34 @@
+body {
+	font-family: 'Varela Round', sans-serif;
+}
+a:link
+{
+	color:white;
+}
+a:active 
+{
+	color:white;
+}
+a:visited
+{
+	color:white;
+}
+.t
+{
+      color:cyan;
+      text-align: center;
+      font-weight: bold;
+}
+.d
+{
+      background-color:cyan;
+      color:white;
+      height:50px;
+      font-size:xx-large;
+}
+.n{
+      background-color:cyan;
+      color:white;
+      height:50px;
+      font-size:large;
+}
